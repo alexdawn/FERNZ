@@ -1,0 +1,3 @@
+STR_GRF_NAME                                                    :FERNZ (FIRS Economy Remix for New Zealand) ${makefile_args.repo_version}
+<!--! empty string is not translated :) -->
+STR_EMPTY                                                       :
